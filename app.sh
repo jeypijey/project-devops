@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello Devops"
+echo "Deployment started"
